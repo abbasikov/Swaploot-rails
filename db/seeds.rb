@@ -7,13 +7,7 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 
-# Daud
-# Saad
-# Fahad
-# Muhammad Ahmed
 
-User.create(email: "muhammad.ahmed@cloudpacer.com", password: "swaploot123!")
-# User.create(email: "daud@swaploot.com", password: "swaploot123!")
-# User.create(email: "saad@swaploot.com", password: "swaploot123!")
-# User.create(email: "fahad@swaploot.com", password: "swaploot123!")
+
+User.create(email: "writeumair86@gmail.com", password: "swaploot123!")
 AdminUser.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?
